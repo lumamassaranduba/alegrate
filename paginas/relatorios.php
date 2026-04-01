@@ -3,7 +3,7 @@
 <html lang="pt-pt">
 <head>
     <meta charset="UTF-8">
-    <title>ALEGRATE - Relatórios</title>
+    <title>ALEGRA-TE</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body { background: #f1f5f9; padding: 20px; }

@@ -3,7 +3,7 @@
 <html lang="pt-pt">
 <head>
     <meta charset="UTF-8">
-    <title>ALEGRATE - Mural de Honra</title>
+    <title>ALEGRA-TE</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Chewy&family=Roboto:wght@700&display=swap" rel="stylesheet">
     <style>
@@ -16,7 +16,7 @@
 </head>
 <body>
     <div class="p-5 bg-primary text-white text-center shadow-sm mb-4" style="border-radius: 0 0 40px 40px;">
-        <h1 class="font-chewy">Mural de Honra</h1>
+        <h1 class="font-chewy">Mural de frequência</h1>
     </div>
 
     <div class="container" style="max-width: 500px;">
